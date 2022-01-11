@@ -30,7 +30,6 @@
         "MuVisionSensor3/MorpxProtocolAnalysis/SimpleList.h",
         "MuVisionSensor3/DebugTool/morpx_debug_tool.h",
         "shims.d.ts",
-        "shims.ts",
         "enums.d.ts",
         "muvision.cpp",
         "muvision.ts",
