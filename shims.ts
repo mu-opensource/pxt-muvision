@@ -3,7 +3,7 @@
 
 
     //% color="#ff6600" weight=50 icon="\uf110"
-declare namespace muvision {
+namespace muvision {
 
     /**
      * Initialize MU.
@@ -143,7 +143,7 @@ declare namespace muvision {
 
 
     //% color="#11ACEF" icon="\uf1eb"
-declare namespace muvisionAT {
+namespace muvisionAT {
 
     /**
      * Read SIP 

@@ -1,6 +1,6 @@
 {
     "name": "muvision",
-    "version": "1.2.25",
+    "version": "1.2.28",
     "description": "MU Vision Sensor designed for the AI education.",
     "license": "MIT",
     "dependencies": {
@@ -29,7 +29,7 @@
         "MuVisionSensor3/MorpxProtocolAnalysis/morpx_protocol_types.h",
         "MuVisionSensor3/MorpxProtocolAnalysis/SimpleList.h",
         "MuVisionSensor3/DebugTool/morpx_debug_tool.h",
-        "shims.d.ts",
+        "shims.ts",
         "enums.d.ts",
         "muvision.cpp",
         "muvision.ts",
